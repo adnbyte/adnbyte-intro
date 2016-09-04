@@ -1,0 +1,26 @@
+{
+  "name": "adnbyte-intro",
+  "version": "1.0.0",
+  "description": "Introduction web for ADN byte company",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adnbyte/adnbyte-intro.git"
+  },
+  "author": "Eduardo Quiñonez <okitoxd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adnbyte/adnbyte-intro/issues"
+  },
+  "homepage": "https://github.com/adnbyte/adnbyte-intro#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-stylus": "^2.5.0",
+    "nib": "^1.1.2",
+    "normalize.css": "^4.2.0"
+  }
+}
